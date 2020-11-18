@@ -1,7 +1,8 @@
 *.py[co]
-TOP500_*.xls
+TOP500_*.xls*
 TOP500_history.csv
-TOP500.ini
+top500.ini
 country-*.csv
 *.svg
 *.png
+*.egg-info
